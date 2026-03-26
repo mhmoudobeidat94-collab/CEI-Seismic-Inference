@@ -7,7 +7,7 @@ import requests
 st.set_page_config(page_title="CEI Earthquake System", layout="wide", page_icon="🚀")
 
 st.title("🛰️ نظام مؤشر التأثير السببي (CEI)")
-st.subheader("تحسين دقة إنذارات الزلازل — بحث علمي: محمود مرعي عبيدات")
+st.subheader("تحسين دقة إنذارات الزلازل — بحث علمي: محمود عبيدات")
 st.markdown("---")
 
 @st.cache_data(ttl=3600)
